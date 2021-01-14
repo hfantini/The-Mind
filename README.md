@@ -1,5 +1,5 @@
 # The Mind
-### Study/Research -> Arctificial intelligence
+### Study/Research -> Artificial intelligence
 
 Date: 2018/04/30
 
